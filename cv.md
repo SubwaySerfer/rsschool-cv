@@ -42,6 +42,11 @@
 - Russian \- Native
 - German \- Basic
 
+### Education:
+
+- The College of the Humanities at the Russian State University for the Humanities (RSUH)
+  **Western Philosophy** (2018-2022)
+
 ### Podcasts and YouTuber-s:
 
 - [Web-standards](https://web-standards.ru/)
@@ -85,5 +90,3 @@ function numberOfPairs(gloves) {
   ![Udemy](/img/course2.png)<br>
 - Vue, Vuex on [Udemy](https://www.udemy.com/certificate/UC-87dacf1d-c36f-44fc-96ac-26940c95e560/)<br>
   ![Udemy](/img/course3.png)<br>
-
----
