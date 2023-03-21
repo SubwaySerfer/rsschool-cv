@@ -8,11 +8,11 @@
 
 ### Contact information:
 
-**E-mail:** subwayserfer.job@gmail.com
+**E-mail:** [subwayserfer.job@gmail.com](subwayserfer.job@gmail.com)
 
-**LinkedIn:** https://www.linkedin.com/in/subway/
+**LinkedIn:** [https://www.linkedin.com/in/subway/](https://www.linkedin.com/in/subway/)
 
-**Telegram:** https://t.me/blade_runner_49
+**Telegram:** [https://t.me/blade_runner_49](https://t.me/blade_runner_49)
 
 ---
 
